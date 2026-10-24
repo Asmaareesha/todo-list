@@ -12,14 +12,16 @@ you can add tasks, view your list, and delete tasks you no longer need.
 
 ## Features
 
-- Add new tasks
-- View all tasks in a numbered list
+- Add tasks with a priority (High, Medium, Low) and an optional due date
+- Priorities are shown in color, and overdue tasks are highlighted
+- Edit the title, priority, or due date of any task
 - Mark tasks as completed (shown with a ✓)
+- Search tasks by keyword
 - Delete tasks by number
+- See how many tasks are completed and how many are overdue
 - Tasks are saved automatically to tasks.json, so they are kept between runs
 - Invalid input is handled without crashing
 
 ## What I learned
 
-Using lists, loops, functions like append and pop, f-strings, and
-building a menu with if/elif/else statements.
+Using lists, loops, functions like append and pop, f-strings, Functions, working with dates, JSON file storage, handling user input safely, and building a menu with if/elif/else statements.
